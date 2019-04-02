@@ -43,10 +43,10 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-XP-850_Series</id>
+      <id>printer/Epson-XP-750_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-XP-750_Series</id>
+      <id>printer/Epson-XP-850_Series</id>
     </printer>
   </printers>
 </driver>

@@ -43,13 +43,13 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-XP-205_207_Series</id>
+      <id>printer/Epson-XP-102_103_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-XP-202_203_206_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-XP-102_103_Series</id>
+      <id>printer/Epson-XP-205_207_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-XP-30_33_Series</id>

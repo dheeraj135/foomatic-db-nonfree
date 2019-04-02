@@ -44,10 +44,10 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-WorkForce_845_Series</id>
+      <id>printer/Epson-BX935FWD_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-BX935FWD_Series</id>
+      <id>printer/Epson-WorkForce_845_Series</id>
     </printer>
   </printers>
 </driver>

@@ -43,31 +43,31 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-WorkForce_645_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-BX635FWD_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-WorkForce_545_Series</id>
+      <id>printer/Epson-BX535WD_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-BX630FW_Series</id>
     </printer>
     <printer>
+      <id>printer/Epson-BX635FWD_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-ME_940FW_Series</id>
+    </printer>
+    <printer>
       <id>printer/Epson-NX530_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-SX535WD_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-BX535WD_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-NX635_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-ME_940FW_Series</id>
+      <id>printer/Epson-SX535WD_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-WorkForce_545_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-WorkForce_645_Series</id>
     </printer>
   </printers>
 </driver>

@@ -43,10 +43,10 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-XP-410_Series</id>
+      <id>printer/Epson-XP-310_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-XP-310_Series</id>
+      <id>printer/Epson-XP-410_Series</id>
     </printer>
   </printers>
 </driver>

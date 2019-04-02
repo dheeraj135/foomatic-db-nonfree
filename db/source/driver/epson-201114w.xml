@@ -43,13 +43,13 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-Artisan_1430_Series</id>
-    </printer>
-    <printer>
       <id>printer/Epson-1430_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-1500_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-Artisan_1430_Series</id>
     </printer>
   </printers>
 </driver>

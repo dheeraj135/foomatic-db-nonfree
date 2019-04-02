@@ -43,13 +43,13 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-EP-906F_Series</id>
+      <id>printer/Epson-EP-306_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-EP-806A_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-EP-306_Series</id>
+      <id>printer/Epson-EP-906F_Series</id>
     </printer>
   </printers>
 </driver>

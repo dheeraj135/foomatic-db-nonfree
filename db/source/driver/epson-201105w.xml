@@ -43,16 +43,16 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-NX330_Series</id>
+      <id>printer/Epson-ME_570_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-TX430_Series</id>
+      <id>printer/Epson-NX330_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-NX430_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-ME_570_Series</id>
+      <id>printer/Epson-NX430_TX435_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-SX430_Series</id>
@@ -61,7 +61,7 @@
       <id>printer/Epson-SX440_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-NX430_TX435_Series</id>
+      <id>printer/Epson-TX430_Series</id>
     </printer>
   </printers>
 </driver>

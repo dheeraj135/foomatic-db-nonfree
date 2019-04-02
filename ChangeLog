@@ -1,3 +1,51 @@
+2019-04-02  OpenPrinting Web Server <webmaster@openprinting.org>
+
+	* db/source/driver/epson-201101w.xml,
+	  db/source/driver/epson-201105w.xml,
+	  db/source/driver/epson-201106j.xml,
+	  db/source/driver/epson-201106w.xml,
+	  db/source/driver/epson-201107w.xml,
+	  db/source/driver/epson-201108w.xml,
+	  db/source/driver/epson-201112w.xml,
+	  db/source/driver/epson-201113j.xml,
+	  db/source/driver/epson-201113w.xml,
+	  db/source/driver/epson-201114w.xml,
+	  db/source/driver/epson-201115j.xml,
+	  db/source/driver/epson-201115w.xml,
+	  db/source/driver/epson-201201w.xml,
+	  db/source/driver/epson-201202w.xml,
+	  db/source/driver/epson-201203w.xml,
+	  db/source/driver/epson-201204w.xml,
+	  db/source/driver/epson-201206w.xml,
+	  db/source/driver/epson-201207w.xml,
+	  db/source/driver/epson-201208w.xml,
+	  db/source/driver/epson-201209j.xml,
+	  db/source/driver/epson-201209w.xml,
+	  db/source/driver/epson-201211j.xml,
+	  db/source/driver/epson-201211w.xml,
+	  db/source/driver/epson-201212j.xml,
+	  db/source/driver/epson-201213j.xml,
+	  db/source/driver/epson-201213w.xml,
+	  db/source/driver/epson-201214w.xml,
+	  db/source/driver/epson-201215w.xml,
+	  db/source/driver/epson-201301w.xml,
+	  db/source/driver/epson-201302w.xml,
+	  db/source/driver/epson-201303w.xml,
+	  db/source/driver/epson-201306j.xml,
+	  db/source/driver/epson-201307j.xml,
+	  db/source/driver/epson-201308w.xml,
+	  db/source/driver/epson-artisan-725-835-series.xml,
+	  db/source/driver/epson-ep-803a-903f-series.xml,
+	  db/source/driver/epson-n10-nx127.xml,
+	  db/source/driver/epson-workforce-320-sx218.xml,
+	  db/source/driver/epson-workforce-525.xml,
+	  db/source/driver/epson-workforce-635-60-nx625-series.xml,
+	  db/source/driver/epson-workforce-840.xml:
+	  Entries modified in the MySQL database.
+
+	* db/source/driver/epson-201401w.xml:
+	  Entries removed from the MySQL database.
+
 2015-06-05  Seiko Epson Corporation <linux-printer@epson.jp>
 	* db/source/driver/epson_l800,
          db/source/driver/epson-201401w.xml:

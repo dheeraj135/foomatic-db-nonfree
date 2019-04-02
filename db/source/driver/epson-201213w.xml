@@ -43,15 +43,6 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-WP-M4525_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-WP-M4521_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-WP-M4595_Series</id>
-    </printer>
-    <printer>
       <id>printer/Epson-WP-M4011_Series</id>
     </printer>
     <printer>
@@ -59,6 +50,15 @@
     </printer>
     <printer>
       <id>printer/Epson-WP-M4095_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-WP-M4521_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-WP-M4525_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-WP-M4595_Series</id>
     </printer>
   </printers>
 </driver>

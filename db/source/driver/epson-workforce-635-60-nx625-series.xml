@@ -43,10 +43,19 @@
   </comments>
   <printers>
     <printer>
+      <id>printer/Epson-B42WD_Series</id>
+    </printer>
+    <printer>
       <id>printer/Epson-BX525WD_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-BX620FWD_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-ME_82WD_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-ME_85ND_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-ME_900WD_Series</id>
@@ -64,31 +73,22 @@
       <id>printer/Epson-SX620FW_Series</id>
     </printer>
     <printer>
+      <id>printer/Epson-T42WD_Series</id>
+    </printer>
+    <printer>
       <id>printer/Epson-TX560WD_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-TX620FWD_Series</id>
     </printer>
     <printer>
+      <id>printer/Epson-WorkForce_60_Series</id>
+    </printer>
+    <printer>
       <id>printer/Epson-WorkForce_620_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-WorkForce_630_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-WorkForce_60_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-T42WD_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-B42WD_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-ME_82WD_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-ME_85ND_Series</id>
     </printer>
   </printers>
 </driver>

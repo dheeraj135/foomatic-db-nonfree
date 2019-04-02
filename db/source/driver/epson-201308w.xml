@@ -43,13 +43,13 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-XP-810_Series</id>
+      <id>printer/Epson-XP-610_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-XP-710_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-XP-610_Series</id>
+      <id>printer/Epson-XP-810_Series</id>
     </printer>
   </printers>
 </driver>

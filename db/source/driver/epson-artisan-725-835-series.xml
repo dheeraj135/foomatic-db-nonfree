@@ -49,16 +49,16 @@
       <id>printer/Epson-Artisan_830_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-TX720WD_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-TX720_Artisan720_Series</id>
-    </printer>
-    <printer>
       <id>printer/Epson-PX720WD_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-PX820FWD_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-TX720WD_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-TX720_Artisan720_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-TX820_Artisan830_Series</id>

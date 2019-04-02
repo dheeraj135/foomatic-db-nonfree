@@ -43,10 +43,10 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-PX_1600F</id>
+      <id>printer/Epson-PX_1200</id>
     </printer>
     <printer>
-      <id>printer/Epson-PX_1200</id>
+      <id>printer/Epson-PX_1600F</id>
     </printer>
   </printers>
 </driver>

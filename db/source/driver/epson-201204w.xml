@@ -43,16 +43,40 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-XP-200_Series</id>
+      <id>printer/Epson-L130_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-XP-201_204_208_Series</id>
+      <id>printer/Epson-L132_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-ME-301_Series</id>
+      <id>printer/Epson-L220_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-XP-100_Series</id>
+      <id>printer/Epson-L222_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-L310_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-L312_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-L360_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-L362_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-L365_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-L366_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-L455_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-L456_Series</id>
     </printer>
   </printers>
 </driver>

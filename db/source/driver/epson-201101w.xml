@@ -43,22 +43,22 @@
   </comments>
   <printers>
     <printer>
+      <id>printer/Epson-ME_340_Series</id>
+    </printer>
+    <printer>
       <id>printer/Epson-NX130_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-TX133_TX135_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-TX130_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-ME_340_Series</id>
+      <id>printer/Epson-NX130_TX130_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-SX130_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-NX130_TX130_Series</id>
+      <id>printer/Epson-TX130_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-TX133_TX135_Series</id>
     </printer>
   </printers>
 </driver>

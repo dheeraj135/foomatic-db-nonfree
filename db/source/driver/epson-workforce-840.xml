@@ -43,10 +43,10 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-WorkForce_840</id>
+      <id>printer/Epson-Stylus_Office_BX925FW</id>
     </printer>
     <printer>
-      <id>printer/Epson-Stylus_Office_BX925FW</id>
+      <id>printer/Epson-WorkForce_840</id>
     </printer>
   </printers>
 </driver>

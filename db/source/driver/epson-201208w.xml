@@ -43,13 +43,13 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-XP-800_Series</id>
+      <id>printer/Epson-XP-600_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-XP-700_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-XP-600_Series</id>
+      <id>printer/Epson-XP-800_Series</id>
     </printer>
   </printers>
 </driver>

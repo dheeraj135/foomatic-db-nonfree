@@ -44,10 +44,10 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-PX_B750F</id>
+      <id>printer/Epson-PX_B700</id>
     </printer>
     <printer>
-      <id>printer/Epson-PX_B700</id>
+      <id>printer/Epson-PX_B750F</id>
     </printer>
   </printers>
 </driver>

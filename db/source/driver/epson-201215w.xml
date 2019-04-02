@@ -43,16 +43,16 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-M200_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-M205_Series</id>
-    </printer>
-    <printer>
       <id>printer/Epson-M100_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-M105_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-M200_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-M205_Series</id>
     </printer>
   </printers>
 </driver>

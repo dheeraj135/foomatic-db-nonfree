@@ -43,7 +43,7 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-XP-400_Series</id>
+      <id>printer/Epson-ME-303_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-ME-400_Series</id>
@@ -52,7 +52,7 @@
       <id>printer/Epson-XP-300_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-ME-303_Series</id>
+      <id>printer/Epson-XP-400_Series</id>
     </printer>
   </printers>
 </driver>

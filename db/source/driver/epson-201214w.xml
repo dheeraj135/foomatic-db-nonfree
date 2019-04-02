@@ -43,10 +43,10 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-WF-M1560_Series</id>
+      <id>printer/Epson-WF-M1030_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-WF-M1030_Series</id>
+      <id>printer/Epson-WF-M1560_Series</id>
     </printer>
   </printers>
 </driver>

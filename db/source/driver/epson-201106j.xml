@@ -43,10 +43,10 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-PX_504A</id>
+      <id>printer/Epson-PX_204</id>
     </printer>
     <printer>
-      <id>printer/Epson-PX_204</id>
+      <id>printer/Epson-PX_504A</id>
     </printer>
   </printers>
 </driver>

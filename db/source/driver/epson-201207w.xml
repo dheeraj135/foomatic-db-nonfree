@@ -43,25 +43,25 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-L350_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-L300_Series</id>
+      <id>printer/Epson-L110_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-L210_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-L110_Series</id>
+      <id>printer/Epson-L300_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-L350_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-L355_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-L555_Series</id>
+      <id>printer/Epson-L550_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-L550_Series</id>
+      <id>printer/Epson-L555_Series</id>
     </printer>
   </printers>
 </driver>

@@ -43,15 +43,6 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-WF-7520</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-WF-7521</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-WF-7525</id>
-    </printer>
-    <printer>
       <id>printer/Epson-WF-7010</id>
     </printer>
     <printer>
@@ -65,6 +56,15 @@
     </printer>
     <printer>
       <id>printer/Epson-WF-7018</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-WF-7520</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-WF-7521</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-WF-7525</id>
     </printer>
   </printers>
 </driver>

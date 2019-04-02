@@ -43,6 +43,9 @@
   </comments>
   <printers>
     <printer>
+      <id>printer/Epson-ME_10_Series</id>
+    </printer>
+    <printer>
       <id>printer/Epson-ME_320_Series</id>
     </printer>
     <printer>
@@ -55,7 +58,7 @@
       <id>printer/Epson-ME_33_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-ME_10_Series</id>
+      <id>printer/Epson-N10_N11_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-NX125_NX127_Series</id>
@@ -89,9 +92,6 @@
     </printer>
     <printer>
       <id>printer/Epson-TX125_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-N10_N11_Series</id>
     </printer>
   </printers>
 </driver>

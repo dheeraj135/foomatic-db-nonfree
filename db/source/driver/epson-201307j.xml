@@ -43,10 +43,10 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-EP-776A_Series</id>
+      <id>printer/Epson-EP-706A_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-EP-706A_Series</id>
+      <id>printer/Epson-EP-776A_Series</id>
     </printer>
   </printers>
 </driver>

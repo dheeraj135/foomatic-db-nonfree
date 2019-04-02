@@ -43,19 +43,19 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-Artisan_837_Series</id>
-    </printer>
-    <printer>
       <id>printer/Epson-Artisan_730_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-TX730_Series</id>
+      <id>printer/Epson-Artisan_837_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-PX730_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-PX830_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-PX730_Series</id>
+      <id>printer/Epson-TX730_Series</id>
     </printer>
   </printers>
 </driver>

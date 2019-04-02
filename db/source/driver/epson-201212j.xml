@@ -43,13 +43,13 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-PX-675F_Series</id>
+      <id>printer/Epson-PX-205_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-PX-605F_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-PX-205_Series</id>
+      <id>printer/Epson-PX-675F_Series</id>
     </printer>
   </printers>
 </driver>

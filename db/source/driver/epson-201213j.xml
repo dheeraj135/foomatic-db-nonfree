@@ -43,10 +43,10 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-PX-K751F</id>
+      <id>printer/Epson-PX-K701</id>
     </printer>
     <printer>
-      <id>printer/Epson-PX-K701</id>
+      <id>printer/Epson-PX-K751F</id>
     </printer>
   </printers>
 </driver>

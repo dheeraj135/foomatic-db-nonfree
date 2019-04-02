@@ -43,10 +43,10 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-XP-402_403_405_406_Series</id>
+      <id>printer/Epson-XP-302_303_305_306_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-XP-302_303_305_306_Series</id>
+      <id>printer/Epson-XP-402_403_405_406_Series</id>
     </printer>
   </printers>
 </driver>

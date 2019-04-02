@@ -44,25 +44,25 @@
   </comments>
   <printers>
     <printer>
+      <id>printer/Epson-ME_530_Series</id>
+    </printer>
+    <printer>
       <id>printer/Epson-NX230_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-TX230_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-ME_530_Series</id>
+      <id>printer/Epson-NX230_TX230_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-SX230_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-TX235_Series</id>
-    </printer>
-    <printer>
       <id>printer/Epson-SX235_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-NX230_TX230_Series</id>
+      <id>printer/Epson-TX230_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-TX235_Series</id>
     </printer>
   </printers>
 </driver>

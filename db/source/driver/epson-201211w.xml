@@ -43,19 +43,19 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-WF-2540_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-WF-2530_Series</id>
-    </printer>
-    <printer>
-      <id>printer/Epson-WF-2520_Series</id>
+      <id>printer/Epson-WF-2010_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-WF-2510_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-WF-2010_Series</id>
+      <id>printer/Epson-WF-2520_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-WF-2530_Series</id>
+    </printer>
+    <printer>
+      <id>printer/Epson-WF-2540_Series</id>
     </printer>
   </printers>
 </driver>

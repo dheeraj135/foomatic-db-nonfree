@@ -43,13 +43,13 @@
   </comments>
   <printers>
     <printer>
-      <id>printer/Epson-PX-535F_Series</id>
+      <id>printer/Epson-PX-105_Series</id>
     </printer>
     <printer>
       <id>printer/Epson-PX-505F_Series</id>
     </printer>
     <printer>
-      <id>printer/Epson-PX-105_Series</id>
+      <id>printer/Epson-PX-535F_Series</id>
     </printer>
   </printers>
 </driver>
